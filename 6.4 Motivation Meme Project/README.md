@@ -1,2 +1,0 @@
-# Motivation-project
-Motivation project
